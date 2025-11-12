@@ -1,0 +1,13 @@
+project/
+├── README.md
+├── LICENSE
+├── pyproject.toml
+├── src/
+│   ├── __init__.py
+│   ├── main.py          # Main application
+│   └── utils.py         # Utility functions
+├── tests/
+│   ├── __init__.py
+│   └── test_main.py
+└── docs/
+    └── index.md
